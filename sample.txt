@@ -1,0 +1,2 @@
+
+Collaborator :  on a Git project, the owner of the repository must give collaborators access to the repository. This can be done by adding the collaborator's username or email address as a contributor to the repository.
